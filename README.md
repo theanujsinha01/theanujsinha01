@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuj Kumar 
 - 👀 I’m interested in ...
--     software Engineering 
+-     software Engineering , Frontend Developer 
 - 🌱 I’m currently learning
 -   HTML, CSS, JavaScript, React, Tailwind CSS 
   
