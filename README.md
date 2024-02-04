@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/theanujsinha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theanujsinha01" height="30" width="40" /></a>
 <a href="https://instagram.com/theanujsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theanujsinha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anujkumar2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anujkumar2023" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/theanujsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anujkumar2023" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/@theanujsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@theanujsinha" height="30" width="40" /></a>
 </p>
 
