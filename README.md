@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 -     software Engineering , Frontend Developer 
 - 🌱 I’m currently learning
--   HTML, CSS, JavaScript, React, Tailwind CSS 
+-   HTML, CSS, JavaScript, React, Tailwind CSS, Material UI
   
 - 📫 How to reach me ...
 - theanujsinha@gmail.com
