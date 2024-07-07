@@ -14,7 +14,7 @@ Hello! I'm Anuj a passionate Data Analytics<br>with strong background in Python,
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=theanujsinha01&theme=&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theanujsinha01&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theanujsinha01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theanujsinha01&theme=&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
