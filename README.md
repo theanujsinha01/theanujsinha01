@@ -2,7 +2,7 @@
 
 
 
-# 💫 About Me:
+#  About Me:
 Hello! I'm Anuj a passionate Data Analytics<br>with strong background in Python, Excel, Power BI and MySQL <br>technology <br><br>
 
 
