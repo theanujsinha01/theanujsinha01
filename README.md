@@ -5,17 +5,9 @@
 #  About Me:
 👋. Hello! I’m Anuj , a passionate data analytics newcomer ready to transform data into actionable insights. With a strong foundation in statistical analysis, data visualization, and a knack for solving complex problems, I’m eager to dive into the world of data analytics and make a meaningful impact.
 
-🔧 Skills:
+🔧 Skills: Python, MySQL, PowerBI, Exel, Maths & Statistics
 
- Python 
 
- MySQL
- 
- Power BI
-
- Excel 
-
- Maths & Statistics 
 
 💼 What I’m Looking For: I’m excited to connect with professionals and explore opportunities where I can contribute my analytical skills and grow within a dynamic team. If you’re looking for a motivated and enthusiastic data analyst ready to take on new challenges, let’s connect!
 
