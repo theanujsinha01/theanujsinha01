@@ -3,13 +3,16 @@
 
 
 #  About Me:
-👋. Hello! I’m Anuj , a passionate data analytics newcomer ready to transform data into actionable insights. With a strong foundation in statistical analysis, data visualization, and a knack for solving complex problems, I’m eager to dive into the world of data analytics and make a meaningful impact.
+👋. Hello! I’m Anuj  and  B.Tech CSE pre final year student
+I am a passionate aspiring data scientist with a strong foundation in data analysis, machine learning, and statistical modeling. Proficient in Python,  SQL, and data visualization tools like Power BI, I have hands-on experience analyzing complex datasets and developing predictive models. 
 
-🔧 Skills: Python, MySQL, PowerBI, Machine Learning(Basic), Maths & Statistics
+My goal is to leverage my skills to help organizations make data-driven decisions and drive innovation. I am actively seeking opportunities to join dynamic teams where I can grow and contribute as a data scientist. Let’s connect if you are looking for a dedicated and skilled individual to turn data into actionable insights.
 
 
+Email ID 
+✉️ theanujsinha@gmail.com
 
-💼 What I’m Looking For: I’m excited to connect with professionals and explore opportunities where I can contribute my analytical skills and grow within a dynamic team. If you’re looking for a motivated and enthusiastic data analyst ready to take on new challenges, let’s connect!
+🔧 Skills: Python, Numpy, Pandas, Matplotlib, seaborn, MySQL, PowerBI, Machine Learning, Probability & Statistica
 
 Email ID 
 ✉️ theanujsinha@gmail.com <br>technology <br><br>
