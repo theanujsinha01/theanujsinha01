@@ -12,7 +12,7 @@ My goal is to leverage my skills to help organizations make data-driven decision
 Email ID 
 ✉️ theanujsinha@gmail.com
 
-🔧 Skills: Python, Numpy, Pandas, Matplotlib, seaborn, MySQL, PowerBI, Machine Learning, Probability & Statistica
+🔧 Skills: Python, Numpy, Pandas, Matplotlib, seaborn, MySQL, PowerBI, Machine Learning, Probability & Statistics 
 
 Email ID 
 ✉️ theanujsinha@gmail.com <br>technology <br><br>
