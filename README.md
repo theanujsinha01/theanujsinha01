@@ -9,13 +9,12 @@ I am a passionate aspiring data scientist with a strong foundation in data analy
 My goal is to leverage my skills to help organizations make data-driven decisions and drive innovation. I am actively seeking opportunities to join dynamic teams where I can grow and contribute as a data scientist. Let’s connect if you are looking for a dedicated and skilled individual to turn data into actionable insights.
 
 
-Email ID 
-✉️ theanujsinha@gmail.com
+
 
 🔧 Skills: Python, Numpy, Pandas, Matplotlib, seaborn, MySQL, PowerBI, Machine Learning, Probability & Statistics 
 
 Email ID 
-✉️ theanujsinha@gmail.com <br>technology <br><br>
+✉️ theanujsinha@gmail.com <br><br>
 
 
 ## 🌐 Socials:
