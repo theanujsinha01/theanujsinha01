@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://theanujsinha01.github.io/Portfolio/](https://theanujsinha01.github.io/Portfolio/)
-
 - 📫 How to reach me **theanujsinha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
